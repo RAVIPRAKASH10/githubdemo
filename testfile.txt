@@ -1,0 +1,9 @@
+this is a test file
+
+
+git config --global http.proxy 172.30.0.7:3128
+git config --global https.proxy 172.30.0.7:3128
+
+git init
+
+git status
